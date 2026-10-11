@@ -176,11 +176,12 @@ Read the RLHF overview first. Begin with DPO and its simpler reference-free vari
 
 ## 5. On-Policy Distillation
 
-On-policy distillation (OPD) trains a student on feedback for its own sampled outputs. Begin with the practical overview, then study the core objective and an efficient implementation.
+On-policy distillation (OPD) trains a student on feedback for its own sampled outputs. Begin with the practical overview, then study the core objective and an efficient implementation. Finish with a comparison of how SFT, RL, and OPD shape the model and affect forgetting.
 
 - [On-Policy Distillation - Thinking Machines Lab](https://thinkingmachines.ai/blog/on-policy-distillation/)
 - [MiniLLM: On-Policy Distillation of Large Language Models](https://arxiv.org/abs/2306.08543)
 - [DistiLLM: Towards Streamlined Distillation for Large Language Models](https://proceedings.mlr.press/v235/ko24c.html)
+- [SFT, RL, and On-Policy Distillation Through a Distributional Lens](https://nrehiew.github.io/blog/sft_rl_opd/) - A conceptual comparison of the three methods, with experiments on generalization and forgetting in code editing.
 
 ## 6. RL
 
