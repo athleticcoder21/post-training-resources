@@ -1,0 +1,4 @@
+# The cloned repository is kept locally as a reference, outside this guide's history.
+/gpu-perf-engineering-resources/
+.DS_Store
+__pycache__/
